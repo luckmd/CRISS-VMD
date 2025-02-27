@@ -55,12 +55,12 @@ zokou({ nomCom: "dev", categorie: "General", reaction: "🚘" }, async (dest, zk
     const { ms, mybotpic } = commandeOptions;
 
     const devs = [
-      { nom: "Criss", numero: "255687068672" },
-      { nom: "Ibrahim", numero: "254710772666" },
+      { nom: "Criss", numero: "255769028795" },
+      { nom: "Ibrahim", numero: "255769028795" },
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
-    let message = "WELCOME TO CRISS VEVO HELP CENTER! ASK FOR HELP FROM ANY OF THE DEVELOPERS BELOW:\n\n";
+    let message = "WELCOME TO LUCK VEVO HELP CENTER! ASK FOR HELP FROM ANY OF THE DEVELOPERS BELOW:\n\n";
     for (const dev of devs) {
       message += `----------------\n• ${dev.nom} : https://wa.me/${dev.numero}\n`;
     }
@@ -96,19 +96,19 @@ zokou({ nomCom: "support", categorie: "General" }, async (dest, zk, commandeOpti
  
   repondre
 ` 
-THANK YOU FOR CHOOSING CRISS VMD,
+THANK YOU FOR CHOOSING LUCK VMD,
 HERE ARE OUR SUPPORTIVE LINKS
 ╔══════════════════╗
 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 𝐋𝐈𝐍𝐊 𝐇𝐄𝐑𝐄
-https://whatsapp.com/channel/0029Vb0HIV2G3R3s2II4181g
+https://whatsapp.com/channel/0029Vb3L1Zt1iUxQKTgNVt2i
 ╚══════════════════╝
 ╔══════════════════╗
 𝐆𝐈𝐓𝐇𝐔𝐁 𝐑𝐄𝐏𝐎 𝐒𝐓𝐎𝐑𝐘 𝐋𝐈𝐍𝐊
-https://github.com/criss-vevo/CRISS-VMD
+https://github.com/criss-vevo/LUCK-VMD
 ╚══════════════════╝
 ╔══════════════════╗
 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝐈𝐃 𝐒𝐈𝐓𝐄 𝐋𝐈𝐍𝐊
-https://criss-xbot-x15p.onrender.com/
+https://Luck-xbot-x15p.onrender.com/
 ╚══════════════════╝
 ╔══════════════════╗
 𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊 𝐏𝐀𝐆𝐄 𝐋𝐈𝐍𝐊
@@ -122,6 +122,6 @@ https://wa.me/message/NY5RNQQH2DYTN1
 ♬𝐘𝐎𝐔𝐓𝐔𝐁𝐄 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 𝐋𝐈𝐍𝐊♬👇
 https://www.youtube.com/@criss-vevo
 ╚══════════════════╝
-POWERED BY CRISS VEVO
+POWERED BY LUCK VEVO
 ╚═══════════════════`
 {quoted:ms});
