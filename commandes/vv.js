@@ -1,4 +1,4 @@
-const { adams } = require("../Ibrahim/adams");
+const { luckvevo } = require("../Luckson/adams");
 
 adams({ nomCom: "vv", categorie: "General", reaction: "😅" }, async (dest, zk, commandeOptions) => {
     const { ms, msgRepondu, repondre } = commandeOptions;
