@@ -3,12 +3,12 @@
   
 
 
-<p align="center">                                                  𝐂𝐑𝐈𝐒𝐒 𝐕𝐄𝐕𝐎-𝐌𝐃 
+<p align="center">                                                  LUCK 𝐕𝐄𝐕𝐎-𝐌𝐃 
   
 
 </p>
 <p align="center"> 
-  <a href="https://whatsapp.com/channel/0029Vb0HIV2G3R3s2II4181g">
+  <a href=" https://whatsapp.com/channel/0029Vb3L1Zt1iUxQKTgNVt2i
     <img alt=Support height="390" src="https://files.catbox.moe/hhwdau.jpeg"> 
     </p>
  
@@ -16,7 +16,7 @@
  
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=THIS+IS+CRISS VMD+MADE+IN+TANZANIA" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=THIS+IS+LUCK VMD+MADE+IN+TANZANIA" alt="Typing SVG" /></a>
 
 
 
@@ -26,17 +26,17 @@
 #### SETUP 
 
 
-[`FORK`](https://github.com/criss-vevo/CRISS-VMD/fork)
+[`FORK`](https://github.com/Luck-vevo/Luck-VMD/fork)
 
 
  
 
 
-[`PAIRING CODE`](https://criss-xbot-x15p.onrender.com/)
+[`PAIRING CODE`](https://luck-xbot-x15p.onrender.com/)
  
 
 
-[`SCAN QR CODE`](https://criss-vevo.onrender.com/qr)
+[`SCAN QR CODE`](https://criss-luck.onrender.com/qr)
 
 
 
