@@ -1,9 +1,9 @@
 {
-  "name":"CRISS VEVO",
-  "description":"Best whatsapp bot developed by criss vevo ",
+  "name":"LUCK VEVO",
+  "description":"Best whatsapp bot developed by luck vevo ",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://files.catbox.moe/hhwdau.jpeg",
-  "repository":"https://github.com/criss-vevo/CRISS-VMD",
+  "repository":"https://github.com/luck-vevo/CRISS-VMD",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -46,7 +46,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"CRISS VEVO",
+      "value":"LUCK VEVO",
       "required":false
 
     } ,
@@ -86,14 +86,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "Criss Vevo"
+    "value": "Luck Vevo"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "255687068672"
+    "value": "255769028795"
   },
     "WARN_COUNT":
   {
